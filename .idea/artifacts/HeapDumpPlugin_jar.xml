@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HeapDumpPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HeapDumpPlugin_jar</output-path>
+    <root id="archive" name="HeapDumpPlugin.jar">
+      <element id="module-output" name="HeapDumpPlugin" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
